@@ -1,1 +1,1 @@
-# JHU-Internship
+# JHU-VAE
